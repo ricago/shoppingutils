@@ -1,0 +1,2 @@
+# shoppingutils
+frequencia 2
